@@ -1,0 +1,3 @@
+Disposición adicional única.
+1. La ampliación del ámbito territorial del parque natural se hará por Ley, previo informe de la Junta del parque y cumpliendo los trámites previstos en el artículo 24 de la Ley del Principado de Asturias 5/1991, de 5 de abril, de Protección de los Espacios Naturales.
+2. En el plazo máximo de un mes, a partir de la entrada en vigor de esta Ley, el Consejo de Gobierno abrirá al Ayuntamiento de Ponga el trámite de audiencia del artículo 24.2.c) de la Ley del Principado de Asturias 5/1991, de 5 de abril, de Protección de los Espacios Naturales, para la inclusión, en su caso, de dicho concejo dentro del ámbito territorial del parque.
