@@ -1,0 +1,2 @@
+Disposición derogatoria.
+A la entrada en vigor de la presente Ley quedan derogados el artículo 18, apartado 2, y los artículos 31, 32 y 33 de la Ley de Organización y Funcionamiento de la Administración del Principado de Asturias, de 24 de mayo de 1982, el artículo 23 de la Ley de Presupuestos Generales del Principado de Asturias para 1989, de 30 de diciembre de 1988, así como todas las disposiciones que se opongan a los preceptos de la presente Ley.
