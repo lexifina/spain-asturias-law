@@ -1,0 +1,3 @@
+Disposición adicional.
+En los términos de lo dispuesto en la normativa general de aplicación a las viviendas de protección oficial y en las disposiciones reguladoras de las ayudas y medidas de financiación de actuaciones protegidas en materia de vivienda y suelo, las viviendas declaradas protegidas por la Comunidad Autónoma se regirán en su régimen sancionador por la normativa aplicable a las viviendas de protección oficial promovidas al amparo del Real Decreto 3148/1978, de 10 de noviembre, por el que se desarrolla el Real Decreto-ley 31/1978, de 31 de octubre, sobre política de vivienda.
+Se añade por el art. 8 de la Ley autonómica 15/2002, de 27 de diciembre. Ref. BOE-A-2003-2905.
