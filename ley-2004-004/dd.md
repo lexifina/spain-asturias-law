@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogadas cuantas disposiciones se opongan a lo dispuesto en la presente Ley y específicamente el Decreto 32/2000, de 13 de abril, por el que se regula la organización y funcionamiento del Instituto Asturiano de Prevención de Riesgos Laborales; el artículo 9 del Decreto 87/2003, de 29 de julio, de estructura orgánica básica de la Consejería de Justicia, Seguridad Pública y Relaciones Exteriores, así como el artículo 18 del Decreto 90/2003, de 31 de julio, de estructura orgánica básica de la Consejería de Salud y Servicios Sanitarios.
