@@ -1,0 +1,2 @@
+Disposición transitoria.
+Hasta tanto no se constituyan los Equipos de Atención Primaria, y en todo caso en las Zonas Especiales de Salud definidas en el Decreto del Principado 112/1984, de 6 de septiembre, se formarán Equipos de Salud Escolar integrados por funcionarios del Cuerpo de Médicos y Practicantes de APD o por otros funcionarios de la Consejería de Sanidad del Principado, sin perjuicio de que en las cabeceras de cada área sanitaria puedan existir unidades técnico-administrativas de salud escolar cuya composición y funciones se regularán reglamentariamente.
