@@ -1,0 +1,4 @@
+Disposición adicional única. Uso de lenguaje no sexista.
+De conformidad con el artículo 14.11 de la Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad Efectiva entre Mujeres y Hombres, y el artículo 5 de la Ley del Principado de Asturias 2/2011, de 11 de marzo, para la Igualdad de Mujeres y Hombres y la Erradicación de la Violencia de Género, las referencias que en el texto de esta ley se hagan, por economía lingüística, mediante el uso del masculino genérico se entenderán realizadas tanto en género femenino como en masculino.
+En particular, las referencias al tratamiento de Ilustrísimo y a los títulos de Hijo Predilecto e Hijo Adoptivo de Asturias se entenderán hechas, respectivamente, a Ilustrísima e Ilustrísimo, a Hija Predilecta e Hija Adoptiva de Asturias y a Hijo Predilecto e Hijo Adoptivo de Asturias.
+Se añade por el art. único.6 de la Ley 2/2022, de 6 de abril. Ref. BOE-A-2022-8834
