@@ -1,0 +1,3 @@
+Artículo 155 bis. Exenciones.
+Cuando las Administraciones Públicas, con el ámbito establecido en el artículo 2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, soliciten al Registro de Asociaciones del Principado de Asturias, en el marco del principio de colaboración entre Administraciones, la expedición de certificados, de copias auténticas y de notas simples informativas en soporte papel o en soporte informático, estarán exentas del pago de la tasa.
+Se añade por el art. 11.13 de la Ley 6/2004, de 28 de diciembre. Ref. BOE-A-2005-1922.

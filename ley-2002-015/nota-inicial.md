@@ -1,0 +1,1 @@
+Esta Ley pasa a denominarse "Ley del Principado de Asturias 15/2002, de 27 de diciembre, de acompañamiento a los Presupuestos Generales para 2003", según establece la disposición final 1 de la Ley 6/2004, de 28 de diciembre. Ref. BOE-A-2005-1922.
