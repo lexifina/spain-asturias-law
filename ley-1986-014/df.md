@@ -1,0 +1,2 @@
+Disposición final
+En lo no previsto en esta Ley serán de aplicación con carácter general las normas vigentes en la legislación sobre Régimen Electoral General, y especialmente las previstas para las elecciones de Diputados a Cortes Generales, con las adaptaciones derivadas del carácter y ámbito de la consulta electoral, entendiéndose las referencias a Organismos estatales, a los que correspondan de la Administración del Principado.
