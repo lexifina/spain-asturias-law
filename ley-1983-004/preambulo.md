@@ -1,0 +1,6 @@
+EL PRESIDENTE DEL PRINCIPADO
+Sea notorio que la Junta General del Principado ha aprobado y yo, en nombre de Su Majestad El Rey y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía para Asturias, vengo en promulgar la siguiente Ley reguladora del procedimiento de designación de Senadores por el Principado de Asturias:
+EXPOSICIÓN DE MOTIVOS
+El artículo 69 de la Constitución Española de 27 de diciembre de 1978, establece en su apartado 5 que las Comunidades Autónomas designarán un Senador y otro más por cada millón de habitantes de su respectivo territorio, correspondiendo la designación a la Asamblea legislativa, de acuerdo con lo que establezcan los Estatutos que asegurarán, en todo caso. la adecuada representación proporcional.
+Por su parte, el Estatuto de Autonomía para Asturias, aprobado por Ley Orgánica 7/1981, de 30 de diciembre, en concordancia con el artículo citado de la Constitución, refiere, en su artículo 24.2, a la Junta General del Principado la competencia para regular mediante Ley la designación de los Senadores representantes de la Comunidad Autónoma.
+El presente proyecto de Ley tiene por finalidad regular el citado procedimiento para designar a los Senadores por el Principado de Asturias.
