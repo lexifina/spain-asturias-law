@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogadas, a la entrada en vigor de la presente Ley, las disposiciones de igual o inferior rango que se opongan a lo previsto en la misma y, en especial, la Resolución de la Consejería de Cooperación de 29 de octubre de 1997, por la que se regulan en el ámbito del Principado de Asturias los requisitos y condiciones que habrán de cumplir los organizadores de espectáculos públicos y actividades recreativas, de carácter extraordinario, durante las fiestas navideñas.
