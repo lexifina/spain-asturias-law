@@ -1,0 +1,2 @@
+Disposición transitoria.
+En el plazo de los dos meses siguientes a la entrada en vigor de la presente Ley, se designarán los representantes de los grupos que constituyen el Consejo Rector del Instituto de Desarrollo Económico del Principado de Asturias, los cuales serán nombrados mediante acuerdo del Consejo de Gobierno del Principado de Asturias dentro del mes siguiente a la finalización del plazo precedente.
