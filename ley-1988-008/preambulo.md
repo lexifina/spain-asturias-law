@@ -1,0 +1,2 @@
+EL PRESIDENTE DEL PRINCIPADO DE ASTURIAS
+Sea notorio que la Junta General del Principado ha aprobado, y yo, en nombre de Su Majestad el Rey, y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía para Asturias, vengo en promulgar la siguiente Ley por la que se autoriza la modificación de los Estatutos de la Fundación Pública «Centro Regional de Bellas Artes», y se crea el Organismo autónomo Orquesta Sinfónica del Principado de Asturias.
