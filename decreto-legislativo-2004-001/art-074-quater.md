@@ -1,0 +1,4 @@
+Artículo 74 quáter. Procedimiento para la ordenación especial.
+1. A efectos de facilitar la promoción de suelo para la construcción de viviendas protegidas, el procedimiento a seguir para la calificación, y en su caso clasificación, del suelo será el establecido en los artículos 91 bis y siguientes de este Texto Refundido. Este procedimiento sustituirá al procedimiento general de aprobación y modificación de planeamiento urbanístico.
+2. El ámbito se ordenará mediante un plan especial, que tendrá la doble naturaleza de modificación del plan general de ordenación y de aprobación o, en su caso, modificación del planeamiento de desarrollo y contendrá las determinaciones exigidas para los planes parciales en el artículo 66 de este Texto Refundido.
+Se añade por el art. 7 de la Ley 2/2004, de 29 de octubre. Ref. BOE-A-2004-20810.
