@@ -1,0 +1,2 @@
+Disposición transitoria.
+Los expedientes sancionadores en materia de seguridad minera iniciados al amparo de la Ley del Principado de Asturias 2/1985, de 11 de diciembre, sobre infracciones en materia de seguridad en las explotaciones mineras, continuarán tramitándose con arreglo a la misma hasta su resolución definitiva, sin perjuicio de la retroactividad de la presente Ley en cuanto favorezca al presunto infractor.
