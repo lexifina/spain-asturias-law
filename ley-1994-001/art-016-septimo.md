@@ -1,0 +1,5 @@
+Artículo 16 séptimo. Consumo mínimo potencial.
+1. Se establece un consumo mínimo potencial de 6 metros cúbicos por abonado y mes, que será la base imponible en el devengo del canon en usos domésticos e industriales para los casos en que no hubiera instrumentos de medida de consumo o bien dicho consumo estuviera por debajo de ese mínimo.
+2. A efectos de realizar el cómputo del consumo mínimo, en los supuestos en los que el suministro de agua se efectúe y facture a comunidades de propietarios u otras entidades similares formadas por una pluralidad de propietarios de diversas viviendas o establecimientos, tendrán la consideración de abonados, además de la propia comunidad, cada una de las viviendas o establecimientos que la integren.
+3. En las mismas condiciones, mencionadas en los dos apartados anteriores, se establece un consumo mínimo de 6 metros cúbicos para los titulares o poseedores de captaciones de agua superficiales, pluviales o subterráneas.
+Se añade por el art. 6.9 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
