@@ -6,4 +6,5 @@ La elección se hará por mayoría absoluta de los miembros de la Junta en prime
 Si transcurrido el plazo de dos meses a partir de la constitución de la Junta ningún candidato hubiera sido elegido, la Junta General electa quedará disuelta, procediéndose a la convocatoria de nuevas elecciones. El mandato de la nueva Junta durará en todo caso hasta la fecha en que debiera concluir el de la primera.
 Dos. El Presidente del Principado de Asturias es el del Consejo de Gobierno, cuya actividad dirige, coordina la administración de la Comunidad Autónoma, designa y separa a los consejeros y ostenta la suprema representación del Principado y la ordinaria del Estado en Asturias.
 Tres. El Presidente del Principado de Asturias responde políticamente ante la Junta General.
-Cuatro. Una ley de la Junta, aprobada por el voto favorable de la mayoría de sus miembros determinará el estatuto personal, el procedimiento de elección y cese y las atribuciones del Presidente del Principado de Asturias.
+Cuatro. Una ley del Principado, aprobada por el voto favorable de la mayoría absoluta, determinará el estatuto personal, el procedimiento de elección y cese y las atribuciones del Presidente.
+Se modifica el apartado 4 por el art. único.29 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338

@@ -1,4 +1,4 @@
 Artículo 55.
-Uno. El control económico y presupuestario del Principado se ejercerá por el Tribunal de Cuantas del Estado.
-Dos. El informe del Tribunal de Cuentas será remitido a las Cortes Generales, así como a la Junta General del Principado.
-Tres. Lo establecido en los apartados anteriores se llevará a cabo de acuerdo con lo que establezca la Ley Orgánica prevista en el artículo ciento treinta y seis coma cuatro de la Constitución.
+1. El control económico y presupuestario del Principado de Asturias se ejercerá por la Sindicatura de Cuentas del Principado, sin perjuicio de las funciones del Tribunal de Cuentas del Reino.
+2. El informe de la Sindicatura de Cuentas del Principado será remitido a la Junta General para su tramitación de acuerdo con lo que prevea el Reglamento de la Cámara.
+Se modifica por el art. único.49 de la Ley Orgánica 1/1999, de 5 de enero. Ref. BOE-A-1999-338
