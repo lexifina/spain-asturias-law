@@ -29,14 +29,15 @@ T=a+(b.SS)+(c.DQO)+(d.NTK), donde:
 "SS", la concentración media del vertido en sólidos en suspensión, expresada en kilos por metro cúbico.
 "DQO", la concentración media del vertido en demanda química de oxígeno, expresada en kilos por metro cúbico.
 "NTK", la concentración media del vertido en nitrógeno total kjeldhal, expresada en kilos por metro cúbico.
-"a", el coeficiente independiente de la contaminación, que indica el precio asignado exclusivamente al volumen vertido. Su valor es de 0,068094 €/m3.
-"b", el coeficiente que indica el precio por unidad de contaminación en SS. Su valor es de 0,278569 €/kg.
-"c", el coeficiente que indica el precio por unidad de contaminación en DQO. Su valor es de 0,247617 €/kg.
-"d", el coeficiente que indica el precio por unidad de contaminación en NTK. Su valor es de 0,773803 €/kg.
+"aˮ, el coeficiente independiente de la contaminación, que indica el precio asignado exclusivamente al volumen vertido. Su valor es de 0,0701 €/m3.
+"bˮ, el coeficiente que indica el precio por unidad de contaminación en SS. Su valor es de 0,2869 €/kg.
+"cˮ, el coeficiente que indica el precio por unidad de contaminación en DQO. Su valor es de 0,2550 €/kg.
+"dˮ, el coeficiente que indica el precio por unidad de contaminación en NTK. Su valor es de 0,7970 €/kg.
 La cuantificación de SS, DQO y NTK se realizará mediante el análisis de muestras, en la misma forma y procedimiento establecidos en el apartado 1 del artículo 16 quinto de esta ley. La resolución que deba dictarse incluirá la cuantificación de los conceptos mencionados.
 En el caso de que el contribuyente disponga de sistemas propios de depuración de aguas residuales, la medición de los conceptos SS, DQO y NTK se realizará para el efluente de la instalación de depuración.
 En los supuestos contemplados en el artículo 16 sexto de la presente ley, "Estimación objetiva de la carga contaminante", el tipo tributario se establecerá por aplicación de los valores establecidos en este anexo a los estimados en concepto de SS, DQO y NTK por grupos de actividad, establecimientos similares o datos que consten en las autorizaciones de vertidos, en la forma y cuantía que reglamentariamente se establezcan.
 Cuando el vertido se realice de manera individual al medio no será de aplicación el coeficiente "a" de la fórmula polinómica antes descrita.
+Se modifica por el art. 21.3 de la Ley autonómica 6/2003, de 30 de diciembre. Ref. BOE-A-2004-2367.
 Se modifica por el art. 20.3 de la Ley autonómica 15/2002, de 27 de diciembre. Ref. BOE-A-2003-2905.
 Se modifica por el art. 7.7 de la ley autonómica14/2001, de 28 de diciembre. Ref. BOE-A-2002-2836.
 Se añade por el art. 6.18 de la Ley autonómica 4/2000, de 30 de diciembre. Ref. BOE-A-2001-3992.
