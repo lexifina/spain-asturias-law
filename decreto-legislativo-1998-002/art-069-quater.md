@@ -1,0 +1,7 @@
+Artículo 69 quáter. Sanciones por infracciones graves.
+1. Las infracciones graves serán sancionadas con multa pecuniaria proporcional del tanto al doble de la cantidad indebidamente obtenida, aplicada o no justificada o, en el caso de entidades colaboradoras, de los fondos indebidamente aplicados o justificados.
+2. Cuando el importe del perjuicio económico correspondiente a la infracción grave represente más del 50 por 100 de la subvención concedida o de las cantidades recibidas por las entidades colaboradoras, y excediera de 30.000 euros, concurriendo alguna de las circunstancias previstas en los párrafos b) y c) del apartado 1 del artículo 69 bis de este Texto refundido, los infractores podrán ser sancionados, además, con:
+a) Pérdida, durante un plazo de hasta tres años, de la posibilidad de obtener subvenciones, ayudas públicas y avales de la Administración u otros entes públicos.
+b) Prohibición, durante un plazo de hasta tres años, para celebrar contratos con la Administración u otros entes públicos.
+c) Pérdida, durante un plazo de hasta tres años, de la posibilidad de actuar como entidad colaboradora.
+Se añade por el art. 1.6 de la Ley 7/2005, de 29 de diciembre. Ref. BOE-A-2006-6252.
