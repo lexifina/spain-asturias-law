@@ -2,7 +2,7 @@ Subsección 5.ª Tramitación de la ordenación especial de áreas con destino a
 Se añade por el art. 8.2.e) de la Ley 2/2004, de 29 de octubre. Ref. BOE-A-2004-20810.
 Artículo 91 bis. Actuaciones previas.
 1. El procedimiento previsto en el artículo 74 quáter de este Texto Refundido, se iniciará a instancia de los particulares. A tal efecto, se podrán presentar ante el Ayuntamiento y la Consejería competente en materia de ordenación del territorio y urbanismo propuestas para su consideración, siempre que los suelos reúnan los requisitos señalados en el artículo 74 ter de este texto refundido.
-2. El oferente deberá acreditar la propiedad, al menos, del ochenta por ciento del suelo al que se refiere la propuesta; u opciones de compra protocolizadas y registradas que avalen la posibilidad de su adquisición al momento de la declaración de interés de la operación por parte del Consejo de Gobierno, debiendo formalizarse la adquisición tras dicha declaración y antes de la presentación a trámite del plan especial.
+2. El oferente deberá acreditar la propiedad, al menos, del 60 por ciento del suelo al que se refiere la propuesta; u opciones de compra protocolizadas y registradas que avalen la posibilidad de su adquisición al momento de la declaración de interés de la operación por parte del Consejo de Gobierno, debiendo formalizarse la adquisición tras dicha declaración y antes de la presentación a trámite del plan especial.
 3. A su vez, dichas propuestas deberán contemplar:
 a) Aprovechamiento residencial y de otros usos complementarios.
 b) Número de viviendas protegidas a realizar.
@@ -26,4 +26,5 @@ c) Precios de venta de las viviendas protegidas conforme a lo dispuesto en la no
 d) Régimen de penalizaciones por incumplimiento de los plazos previstos por causas imputables al promotor, proporcional al previsto en la legislación de contratos de las Administraciones Públicas en los supuestos de demoras en la ejecución.
 e) Los que resulten de las condiciones a que se refiere el apartado 5 de este artículo.
 f) Cualesquiera otros que se consideren oportunos por ambas Administraciones para el mejor desarrollo de la ordenación especial.
-Se añade por el art. 8 de la Ley 2/2004, de 29 de octubre. Ref. BOE-A-2004-20810.
+Se modifica el apartado 2 por el art. 4.3 de la Ley 11/2006, de 27 de diciembre. Ref. BOE-A-2007-5591.
+Se añade por el art. 8.1 de la Ley 2/2004, de 29 de octubre. Ref. BOE-A-2004-20810.
