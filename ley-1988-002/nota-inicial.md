@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias hechas al Director-Conservador se entenderán efectuadas al Conservador, según establece la disposición adicional de la Ley 9/2006, de 22 de diciembre. Ref. BOE-A-2007-5589.
