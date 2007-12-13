@@ -1,0 +1,3 @@
+Disposición derogatoria.
+Queda derogada la Ley del Principado de Asturias 13/1986, de 28 de noviembre, de Ordenación y Defensa de las Carreteras, así como el artículo 4 de la Ley 15/2002, de 27 de diciembre, de medidas presupuestarias, administrativas y fiscales de acompañamiento a los Presupuestos Generales para 2003, y el artículo 2 de la Ley del Principado de Asturias 7/2005, de 29 de diciembre, de medidas presupuestarias, administrativas y tributarias de acompañamiento a los Presupuestos Generales para 2006, y cuantas disposiciones de igual o inferior rango se opongan a la presente Ley.
+Redactada conforme a la corrección de errores publicada en BOPA núm. 287, de 14 de diciembre de 2006. Ref. BOE-A-2007-1892.
