@@ -1,0 +1,3 @@
+Artículo 87 séptimo. Sujeto pasivo.
+Es sujeto pasivo de la tasa la persona física o jurídica promotora de edificios destinados a vivienda o residencia de carácter permanente, públicos o privados, cuyo uso principal esté comprendido en los grupos recogidos en el artículo 2 de la Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación, que se construyan en el ámbito territorial del Principado de Asturias, así como la persona física o jurídica promotora de rehabilitaciones de viviendas que afecten a la totalidad del edificio, a sus instalaciones generales o a sus elementos comunes.
+Se añade por el art. 13.20 de la Ley 6/2008, de 30 de diciembre. Ref. BOE-A-2009-4690.

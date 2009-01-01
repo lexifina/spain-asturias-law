@@ -29,10 +29,10 @@ T=a+(b.SS)+(c.DQO)+(d.NTK), donde:
 "SS", la concentración media del vertido en sólidos en suspensión, expresada en kilos por metro cúbico.
 "DQO", la concentración media del vertido en demanda química de oxígeno, expresada en kilos por metro cúbico.
 "NTK", la concentración media del vertido en nitrógeno total kjeldhal, expresada en kilos por metro cúbico.
-"a" el coeficiente independiente de la contaminación, que indica el precio asignado exclusivamente al volumen vertido, Su valor es de 0,0858 €/m3.
-"b", el coeficiente que indica el precio por unidad de contaminación en SS. Su valor es de 0,3511 €/kg.
-"c", el coeficiente que indica el precio por unidad de contaminación e DQO. Su valor es de 0,3121 €/kg.
-"d", el coeficiente que indica el precio por unidad de contaminación en NTK. Su valor es de 0,9755 €/kg.
+"a", el coeficiente independiente de la contaminación, que indica el precio asignado exclusivamente al volumen vertido. Su valor es de 0,0944 euros/m3.
+"b", el coeficiente que indica el precio por unidad de contaminación en SS. Su valor es de 0,3862 euros/kg.
+"c", el coeficiente que indica el precio por unidad de contaminación en DQO. Su valor es de 0,3433 euros/kg.
+"d", el coeficiente que indica el precio por unidad de contaminación en NTK. Su valor es de 1,0731 euros/kg.
 La cuantificación de SS, DQO y NTK se realizará mediante el análisis de muestras, en la misma forma y procedimiento establecidos en el apartado 1 del artículo 16 quinto de esta ley. La resolución que deba dictarse incluirá la cuantificación de los conceptos mencionados.
 En el caso de que el contribuyente disponga de sistemas propios de depuración de aguas residuales, la medición de los conceptos SS, DQO y NTK se realizará para el efluente de la instalación de depuración.
 En los supuestos contemplados en el artículo 16 sexto de la presente ley, «Estimación objetiva de la carga contaminante», el tipo tributario se establecerá por aplicación de los valores establecidos en este anexo a los estimados en concepto de SS, DQO y NTK por grupos de actividad, establecimientos similares o datos que consten en las autorizaciones de vertidos, en la forma y cuantía que reglamentariamente se establezcan.
@@ -46,7 +46,8 @@ Kes | 1 | Hasta 500 m
  | 0,3 | Entre 801 y 1.200 m
  | 0,15 | Más de 1.200 m
 Para la aplicación del coeficiente reductor, el vertido al mar deberá contar con autorización en vigor, siendo el titular de la misma la industria a la que se aplica la reducción y se realizará únicamente a través de un emisario submarino que cumpla lo dispuesto en la Orden de 13 de julio de 1993, del Ministerio de Obras Públicas y Transportes, por la que se aprueba la Instrucción para el proyecto de conducciones de vertidos desde tierra al mar. Asimismo, los resultados del Programa de Vigilancia y Control del Vertido deberán indicar una buena conservación estructural del emisario y un funcionamiento acorde con su dimensionamiento.
-Se modifica por el art. 10.2 de la ley autonómica 3/2008, de 13 de junio. Ref. BOE-A-2008-13590.
+Se modifica por el art. 12.3 de la Ley autonómica 6/2008, de 30 de diciembre. Ref. BOE-A-2009-4690.
+Se modifica por el art. 10.2 de la Ley autonómica 3/2008, de 13 de junio. Ref. BOE-A-2008-13590.
 Se modifica por el art. 11.2 de la Ley autonómica 11/2006, de 27 de diciembre. Ref. BOE-A-2007-5591.
 Se modifica por el art. 9.3 de la ley autonómica 7/2005, de 29 de diciembre. Ref. BOE-A-2006-6252.
 Se modifica por el art. 12.3 de la Ley autonómica 6/2004, de 28 de diciembre. Ref. BOE-A-2005-1922.
