@@ -1,0 +1,4 @@
+Artículo 30 tercero. Sujeto pasivo.
+1. Son sujetos pasivos de la tasa por prestación de servicios docentes por la impartición de cursos básicos de ingreso en los cuerpos de las Policías Locales del Principado de Asturias las personas físicas beneficiarias de la prestación a título de contribuyente. Tendrán la condición de sustitutos del contribuyente los ayuntamientos de procedencia del beneficiario de la prestación.
+2. Son sujetos pasivos de la tasa por prestación de servicios docentes por la impartición de cursos de capacitación para la promoción interna de los efectivos integrados en los cuerpos de las Policías Locales del Principado de Asturias los ayuntamientos que soliciten la inscripción para realizar los cursos.
+Se añade por el art. 5.1 de la Ley 4/2009, de 29 de diciembre. Ref. BOE-A-2010-3375.
