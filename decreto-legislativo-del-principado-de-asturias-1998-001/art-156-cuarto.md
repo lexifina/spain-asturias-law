@@ -18,7 +18,7 @@ Baja definitiva de máquinas (unidad): 6 €.
 Transmisiones de máquinas entre empresas operadoras (por máquina): 6 €.
 Autorización de instalación de máquinas incluidas las temporales y cambio de titularidad: 30 €.
 Comunicaciones de traslado de máquinas (por cada traslado): 5 €.
-Autorización de rifas, tómbolas y combinaciones aleatorias: 50 €.
+Autorización de rifas y tómbolas: 50 €.
 Autorización del juego de la noventina: 100 €.
 2. Otros servicios y actuaciones administrativas:
 Expedición de documentos profesionales: 6 €.
@@ -26,4 +26,5 @@ Emisión de duplicados de documentos: 3 €.
 Diligenciado de libros y hojas exigidos reglamentariamente: 6 €.
 Expedición de certificados: 6 €.
 Inspección técnica de máquinas recreativas y de azar: 200 €.
+Se modifica el apartado 1 por la disposición final 1 de la Ley autonómica 7/2010, de 29 de octubre. Ref. BOE-A-2011-1384.
 Se añade por el art. 19.12 de la Ley autonómica 15/2002, de 27 de diciembre. Ref. BOE-A-2003-2905.
