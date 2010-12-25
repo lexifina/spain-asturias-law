@@ -1,0 +1,4 @@
+Disposición derogatoria. Derogación normativa.
+1. A la entrada en vigor de la presente Ley queda derogada la Ley del Principado de Asturias 10/2002, de 19 de noviembre, de Comercio Interior.
+2. Quedan asimismo derogadas a la entrada en vigor de la presente Ley las disposiciones de igual o inferior rango emanadas de los órganos de la Comunidad Autónoma que se opongan a lo previsto en la misma.
+3. Quedan expresamente excluidos de la derogación, en cuanto no contradigan o se opongan a lo dispuesto en la presente Ley, el Decreto 79/2004, de 8 de octubre, por el que se aprueba el Reglamento de organización y funcionamiento del Consejo Asesor de Comercio del Principado de Asturias; el Decreto 104/2005, de 13 de octubre, de horarios comerciales en el Principado de Asturias, y el Decreto 137/2006, de 28 de diciembre, por el que se regula el Registro de Empresas y Actividades Comerciales del Principado de Asturias.
