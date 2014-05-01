@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogados el título II, «Canon de saneamiento», la letra b) del artículo 24 y la disposición adicional sexta de la Ley del Principado de Asturias 1/1994, de 21 de febrero, sobre abastecimiento y saneamiento de aguas, la disposición final segunda de la Ley del Principado de Asturias 3/2012, de 28 de diciembre, de Presupuestos Generales para 2013, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
