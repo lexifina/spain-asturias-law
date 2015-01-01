@@ -1,0 +1,2 @@
+Disposición transitoria. Aplicación transitoria del desarrollo reglamentario del canon de saneamiento.
+Mientras no se dicten las normas de desarrollo del impuesto sobre las afecciones ambientales del uso del agua, resultarán de aplicación las normas de desarrollo del canon de saneamiento, y en particular, lo previsto en el Título II del Reglamento para el Desarrollo de la Ley del Principado de Asturias 1/1994, de 21 de febrero, sobre abastecimiento y saneamiento de aguas, aprobado por Decreto 19/1998, de 23 de abril.
