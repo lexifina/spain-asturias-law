@@ -1,0 +1,2 @@
+Disposición transitoria única. Órganos de gobierno.
+Los órganos de gobierno de las Cámaras continuarán el ejercicio de sus funciones hasta que se constituyan los nuevos órganos de gobierno tras la finalización del correspondiente proceso electoral, de acuerdo con lo previsto en la Ley 4/2014, de 1 de abril, Básica de las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación, y lo dispuesto en la presente ley.
