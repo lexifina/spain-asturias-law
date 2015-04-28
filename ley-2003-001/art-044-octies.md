@@ -1,0 +1,5 @@
+Artículo 44 octies. Convenios para la gestión de las prestaciones del catálogo de servicios sociales y acuerdos de colaboración.
+1. El Principado de Asturias podrá celebrar convenios con entidades de iniciativa social con experiencia acreditada en la materia de que se trate para la provisión de prestaciones del catálogo de servicios sociales en aquellos supuestos en que por razones de urgencia, la singularidad de la actividad o prestación de que se trate, o su carácter innovador y experimental, aconsejen la no aplicación motivada del régimen de concierto social.
+2. No obstante lo anterior, serán de aplicación a dichos convenios las características y requisitos propios del régimen de concierto previsto en esta Ley que no resulten incompatibles con su naturaleza.
+3. El Principado de Asturias podrá establecer con las entidades de iniciativa social acuerdos de colaboración que recojan los conciertos, convenios o cualesquiera otras formas de colaboración que se suscriban respectivamente con cada una de ellas.
+Se añade por el art. único.8 de la Ley 9/2015, de 20 de marzo. Ref. BOE-A-2015-5799.
