@@ -1,0 +1,2 @@
+Disposición adicional. Referencias a la Administración del Principado de Asturias.
+Las referencias a la Administración del Principado de Asturias contenidas en la presente ley comprenderán también a los organismos, empresas y entes públicos integrantes de su sector público, de acuerdo con el artículo 4 del texto refundido del régimen económico y presupuestario, aprobado por el Decreto Legislativo del Principado de Asturias 2/1998, de 25 de junio, en los casos en que se hubieran descentralizado en los mismos las correspondientes competencias o funciones.
