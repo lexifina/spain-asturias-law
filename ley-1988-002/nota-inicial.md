@@ -1,1 +1,2 @@
+Téngase en cuenta que las referencias hechas al Consejo Rector se entenderán hechas a la Comisión Rectora, según establece la disposición final 1.1 de la Ley 10/2017, de 24 de noviembre. Ref. BOE-A-2017-15287
 Téngase en cuenta que las referencias hechas al Director-Conservador se entenderán efectuadas al Conservador, según establece la disposición adicional de la Ley 9/2006, de 22 de diciembre. Ref. BOE-A-2007-5589.
