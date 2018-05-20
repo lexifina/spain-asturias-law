@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias hechas en masculino en esta ley se entenderán efectuadas también en femenino, según establece la disposición adicional 2 de la Ley 3/2018, de 20 de marzo. Ref. BOE-A-2018-6585
