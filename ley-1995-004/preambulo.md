@@ -1,7 +1,0 @@
-EL PRESIDENTE DEL PRINCIPADO DE ASTURIAS
-Sea notorio que la Junta General del Principado de Asturias ha aprobado, y yo, en nombre de Su Majestad el Rey, y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía para Asturias, vengo en promulgar la siguiente
-LEY DE INCOMPATIBILIDADES, ACTIVIDADES Y BIENES DE LOS ALTOS CARGOS DEL PRINCIPADO DE ASTURIAS
-PREÁMBULO
-El servicio al interés general que constituye un principio esencial de la actuación de los responsables públicos, inspira la regulación, contenida en la presente Ley, de las incompatibilidades de los altos cargos del Principado de Asturias y de la declaración de intereses, actividades y bienes de los mismos.
-El establecimiento de las reglas de incompatibilidad tiene como finalidad garantizar la independencia e imparcialidad de las decisiones de los altos cargos, a la vez que constituye un instrumento ineludible para asegurar la absoluta dedicación a las funciones que les son propias y la profundización en la eficacia del funcionamiento de la Administración pública.
-Por otra parte, la Ley trata de prevenir toda posible colisión de intereses, tanto en las relaciones del sector público con el privado, como entre las distintas esferas de aquél. El establecimiento de la obligación de efectuar declaración de actividades, intereses y bienes y de posibles causas de incompatibilidad, unido a la creación de los Registros de las mismas, satisface la necesaria garantía de la transparencia del ejercicio imparcial de la actividad pública.
