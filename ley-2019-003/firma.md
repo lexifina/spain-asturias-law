@@ -1,0 +1,2 @@
+Por tanto, ordeno a todos los ciudadanos a quienes sea de aplicación esta Ley, coadyuven a su cumplimiento, así como a todos los Tribunales y Autoridades que la guarden y la hagan guardar.
+Oviedo, 15 de marzo de 2019.–El Presidente del Principado de Asturias, P.S. (Decreto del Presidente del Principado 6/2019, de 4 de marzo), el Consejero de Presidencia y Participación Ciudadana, Guillermo Martínez Suárez.
