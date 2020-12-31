@@ -1,0 +1,4 @@
+Artículo 14 nonies. Deducción por la obtención de subvenciones y/o ayudas para paliar el impacto provocado por la COVID-19 sobre los sectores especialmente afectados por la pandemia.
+1. Los contribuyentes que integren en la base imponible general el importe correspondiente a subvenciones y/o ayudas otorgadas por la Administración del Principado de Asturias o su sector público para paliar el impacto provocado por la COVID-19 sobre los sectores especialmente afectados por la pandemia, podrán aplicar una deducción en la cuota íntegra autonómica del impuesto.
+2. El importe de la deducción será el resultado de aplicar el tipo medio de gravamen sobre el importe de la subvención integrado en la base liquidable autonómica.
+Se añade por el art. 39.8 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-905
