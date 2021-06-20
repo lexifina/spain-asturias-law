@@ -1,0 +1,2 @@
+Disposición final única. Entrada en vigor.
+La presente ley entrará en vigor a los treinta días de su publicación en el «Boletín Oficial del Principado de Asturias».
