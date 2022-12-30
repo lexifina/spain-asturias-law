@@ -21,5 +21,7 @@ El empleo de energías renovables y eficiencia energética.
 3.º Las actividades que se presten para entidades que se consideren "empresas innovadoras" por cumplir los requisitos establecidos en la normativa comunitaria.
 4.º Las actividades que se presten a entidades que cumplan con la finalidad de promoción empresarial y reforzamiento de la actividad productiva. Se entenderá que cumplen dicha finalidad las empresas que implementen proyectos empresariales relevantes que supongan el desarrollo de nuevas actividades, productos o mercados, la ampliación o consolidación de otros existentes o la creación de empleos estables. A estos efectos, la entidad para la que preste servicios la persona trabajadora deberá justificar el cumplimiento de la finalidad de promoción empresarial y reforzamiento de la actividad productiva resultante de su actividad.
 5.º Las actividades que se presten para entidades que se encuentren en la etapa inicial de desarrollo de un nuevo proyecto empresarial o en su fase de desarrollo, siempre que se trate de microempresas y pequeñas y medianas empresas con alto potencial de crecimiento.
+4. La presente deducción será incompatible con la prevista en el artículo 14 octies del presente texto refundido.
+Se añade el apartado 4 por el art. 38.14 de la Ley 10/2022, de 30 de diciembre. Ref. BOE-A-2023-3293
 Se modifican el título y los apartados 1 y 2 por el art. 39.2 de la Ley 6/2021, de 30 de diciembre. Ref. BOE-A-2022-863
 Se añade por el art. 39.6 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-905
