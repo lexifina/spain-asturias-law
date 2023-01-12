@@ -1,0 +1,1 @@
+Norma derogada, desde el momento de la constitución efectiva de la Agencia de Ciencia, Competitividad Empresarial e Innovación Asturiana, según establece la disposición derogatoria única.1 de la Ley 9/2022, de 30 de noviembre. Ref. BOE-A-2023-1605#dd
