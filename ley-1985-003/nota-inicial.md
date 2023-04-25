@@ -1,1 +1,0 @@
-Quedan suprimidas las referencias al Consejo de la Función Pública Regional; y las menciones a la Escuela de Administración Pública Regional se entenderán hechas al Instituto Asturiano de Administración Pública "Adolfo Posada", según establece la disposición adicional 2.1 y 2 de la Ley 4/1991, de 4 de abril. Ref. BOE-A-1991-12092.
