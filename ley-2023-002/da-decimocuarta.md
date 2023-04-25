@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Adecuación del régimen jurídico del personal en materia de situaciones administrativas.
+Los órganos competentes en materia de personal de los sujetos que están en el ámbito de aplicación de la ley deberán adecuar los actos declarativos de las situaciones administrativas a las modificaciones contenidas en esta ley, en el plazo se seis meses desde su entrada en vigor.

@@ -1,0 +1,3 @@
+Disposición adicional decimosegunda. Lenguaje de signos y lectura fácil.
+1. Las Administraciones públicas incluidas en el ámbito de aplicación de esta ley tomarán las medidas necesarias para que el personal empleado público sordo, con discapacidad auditiva y sordociego pueda hacer uso de la lengua de signos y/o de los medios de apoyo a la comunicación oral al objeto de facilitar el desempeño de sus funciones.
+2. Se promoverá la publicación de las disposiciones y actos administrativos en el ámbito del empleo público a través de sistemas como la lectura fácil, que faciliten su comprensión por personas con discapacidad.
