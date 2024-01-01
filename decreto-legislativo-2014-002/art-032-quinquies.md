@@ -1,0 +1,4 @@
+Artículo 32 quinquies. Deducción aplicable a adquisiciones de maquinaria agraria por parte de titulares de explotaciones agrarias o ganaderas en funcionamiento.
+A las transmisiones inter vivos de tractores, remolques, semirremolques y maquinaria agraria se les aplicará una deducción del 100 por ciento de la cuota en los supuestos en que el adquirente sea titular de una explotación agraria o ganadera en funcionamiento y el bien adquirido se afecte al desarrollo de la citada actividad.
+Para la aplicación de la deducción habrá de acreditarse el alta en el Censo de Empresarios, Profesionales y Retenedores en el epígrafe correspondiente a la actividad a desarrollar así como que la citada actividad constituye su principal fuente de renta.
+Se añade por el art. 39.16 de la Ley 4/2023, de 29 de diciembre. Ref. BOE-A-2024-1776
