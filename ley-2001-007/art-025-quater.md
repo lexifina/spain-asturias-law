@@ -1,0 +1,4 @@
+Artículo 25 quater. Cese de actividad.
+1. Las personas oferentes de actividades turísticas reguladas tendrán la obligación de declarar electrónicamente el cese de actividad, en un plazo máximo de treinta días desde que se produjese.
+2. Cuando se constate por la inspección de turismo el cese de un establecimiento inscrito, se procederá de oficio a la tramitación del correspondiente procedimiento de cancelación de la inscripción en el Registro de Empresas y Actividades Turísticas, previa audiencia a la persona interesada. El mismo procedimiento se seguirá cuando se constate que no se ha iniciado la actividad transcurridos seis meses desde la presentación de la comunicación o declaración responsable que sea preceptiva.
+Se añade por el art. único.8 de la Ley 6/2024, de 13 de noviembre. Ref. BOE-A-2024-25052

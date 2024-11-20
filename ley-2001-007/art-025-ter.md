@@ -1,0 +1,5 @@
+Artículo 25 ter. Modificación de datos y condiciones.
+1. Las personas oferentes de actividades turísticas reguladas deberán trasladar electrónicamente a la Administración turística competente cualquier modificación en los términos y condiciones de la misma. La inexactitud, falsedad u omisión de los datos que trasladen tendrán los mismos efectos que los previstos en el artículo anterior.
+2. Los cambios esenciales requerirán la presentación de nueva declaración responsable o solicitud de autorización, según la forma originaria de inicio de actividad. Se consideran cambios esenciales los relativos al cambio de titularidad de la actividad, tipo, modalidad, grupo, categoría y especialidad o capacidad y cualquier otro que afecte a la clasificación turística, así como el cese de actividad, de conformidad con lo previsto en el artículo siguiente.
+3. Los restantes cambios, no esenciales, se trasladarán mediante una comunicación en el plazo de un mes a partir de que se produzcan.
+Se añade por el art. único.7 de la Ley 6/2024, de 13 de noviembre. Ref. BOE-A-2024-25052
