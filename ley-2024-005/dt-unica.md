@@ -1,0 +1,2 @@
+Disposición transitoria única. Plan de Ordenación de las Escuelas del Primer Ciclo de Educación Infantil.
+El Plan de Ordenación de las Escuelas del Primer Ciclo de Educación Infantil aprobado por el Consejo de Gobierno del Principado de Asturias el 25 de abril de 2002 continuará desplegando sus efectos en la forma estipulada en el convenio de colaboración vigente solo respecto aquellos ayuntamientos que hayan decidido su integración y solo durante la pendencia del procedimiento de integración.
