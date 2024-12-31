@@ -1,0 +1,4 @@
+Artículo 14 quindecies. Deducción por gastos derivados del arrendamiento de viviendas.
+Los contribuyentes que obtengan rendimientos del capital inmobiliario por el arrendamiento de viviendas, cuando su destino sea el de vivienda habitual del arrendatario, siempre y cuando correspondan a arrendamientos retribuidos a precios con sostenibilidad social, podrán deducirse el importe de las cantidades satisfechas en el ejercicio por gastos de conservación y reparación, la formalización de contratos de arrendamiento, primas de seguros por daños e impagos y la obtención de certificados de eficiencia energética vinculados con tales arrendamientos, con un límite de deducción de 500 euros anuales.
+Se considerará que el arrendamiento de vivienda habitual se retribuye a precios con sostenibilidad en virtud de lo previsto en la normativa del Principado de Asturias a estos efectos.
+Se añade por el 39.5 de la Ley 8/2024, de 27 de diciembre. Ref. BOE-A-2025-3124
