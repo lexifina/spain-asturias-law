@@ -1,0 +1,5 @@
+Artículo 32 septies. Deducción aplicable a las transmisiones patrimoniales onerosas en el desarrollo de políticas públicas.
+1. Se aplicará una deducción del 100 por ciento de la cuota en el supuesto de transmisiones patrimoniales onerosas cuando el obligado al pago del impuesto sea una empresa pública del Principado de Asturias y el hecho imponible tenga origen en el desarrollo de políticas públicas.
+2. Se entenderán por transmisiones patrimoniales onerosas a estos efectos a cualesquiera hechos imponibles resulten sujetos en virtud de lo previsto en el Título II del Texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados aprobado por Real Decreto Legislativo 1/1993, de 24 de septiembre.
+3. Para que la presente deducción resulte de aplicación deberá aportarse certificado emitido por la consejería a la que esté adscrita la empresa pública acreditativo de que el hecho imponible se ha generado como consecuencia del desarrollo de una política pública.
+Se añade por el 39.12 de la Ley 8/2024, de 27 de diciembre. Ref. BOE-A-2025-3124
