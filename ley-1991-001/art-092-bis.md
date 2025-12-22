@@ -1,0 +1,3 @@
+Artículo 92 bis. Autorizaciones especiales de uso sobre bienes afectados al servicio público.
+El titular de la consejería que tuviese afectado un bien podrá conceder autorizaciones de uso por plazo inferior a 30 días, o para la organización de conferencias, seminarios, presentaciones u otros eventos. En el acto de autorización deberán determinarse tanto las condiciones de utilización del inmueble, estableciendo lo necesario para que la misma no interfiera en su uso por los órganos administrativos que lo tengan afectado o adscrito, como la contraprestación a satisfacer por el solicitante de acuerdo con lo establecido en esta ley.
+Se añade por el art. 4.2 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708

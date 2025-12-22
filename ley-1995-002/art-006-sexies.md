@@ -1,0 +1,5 @@
+Artículo 6 sexies. Inteligencia artificial y procedimiento administrativo.
+1. La Administración del Principado de Asturias dará debida publicidad y transparencia al uso de inteligencia artificial en el ejercicio de sus funciones. Serán públicos el procedimiento de calidad y uso responsable de inteligencia artificial que, en el marco de sus competencias, esta establezca, los riesgos que implica y cualesquiera otros aspectos que garanticen los derechos de los interesados.
+2. Las normas que regulen los procedimientos administrativos harán, en su caso, referencia expresa a la posibilidad de uso de sistemas de inteligencia artificial en la fase que corresponda, tanto en la asistencia en la presentación de solicitudes, declaraciones responsables o comunicaciones, la comprobación o verificación de los requisitos como en la toma de decisiones.
+3. Todo procedimiento que prevea el uso de inteligencia artificial como asistencia al mismo fijará el órgano responsable a efectos de impugnaciones.
+Se añade por el art. 1.6 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708

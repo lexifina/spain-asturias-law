@@ -1,0 +1,4 @@
+Artículo 8 bis. Registros electrónicos de apoderamientos.
+1. De conformidad con el artículo 6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración del Principado de Asturias dispondrá de un Registro Electrónico General de Apoderamientos, cuyo régimen jurídico y funcionamiento se regularán reglamentariamente.
+2. El Consejo de Gobierno, en los términos del artículo 6.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y mediante decreto, podrá establecer registros particulares de apoderamientos para la inscripción de los poderes otorgados para la realización de trámites específicos.
+Se añade por el art. 1.9 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708

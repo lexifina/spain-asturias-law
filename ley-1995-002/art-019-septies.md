@@ -1,0 +1,7 @@
+Artículo 19 septies. Agentes habilitados.
+1. La Administración del Principado de Asturias podrá habilitar, con carácter general o específico, a personas físicas o jurídicas para la realización de determinados trámites electrónicos en representación de los interesados. No obstante, quien sea interesado podrá siempre comparecer por sí mismo en el procedimiento.
+2. La habilitación se llevará a cabo a través de la suscripción del correspondiente convenio, tramitado de conformidad con lo dispuesto en el artículo 11 de la presente ley. El convenio deberá recoger de forma específica los procedimientos y trámites objeto de la habilitación, el carácter general o específico de la habilitación y las condiciones y obligaciones aplicables tanto a la entidad firmante del convenio como a las personas físicas o jurídicas habilitadas.
+La consejería competente en materia de Administración pública y régimen jurídico aprobará un modelo normalizado de convenio en que se articule la habilitación, conforme a lo dispuesto en la legislación de régimen jurídico del sector público.
+3. El Registro de Apoderamientos contendrá una sección en la que se incorporarán los datos correspondientes a los agentes habilitados.
+4. En la sede electrónica que corresponda se incorporará un inventario de procedimientos y trámites electrónicos que podrán realizarse con esta representación.
+Se añade por el art. 1.25 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708

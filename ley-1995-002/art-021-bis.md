@@ -1,0 +1,8 @@
+Artículo 21 bis. Circulares, instrucciones y órdenes de servicio.
+1. Los titulares de las consejerías, viceconsejerías, secretarías generales técnicas, Intervención General y direcciones generales podrán impulsar y dirigir la actividad administrativa de los órganos dependientes mediante circulares, instrucciones y órdenes de servicio.
+2. Las circulares son directrices internas destinadas a los órganos y unidades que de ellos dependan en las que se contienen criterios de aplicación o interpretación de una norma, con el fin de asegurar una actuación homogénea.
+3. Las instrucciones son directrices internas en las que se fijan o establecen pautas o formas de actuación por las que han de regirse los órganos o unidades dependientes.
+4. Las órdenes de servicio son reglas de actuación u órdenes específicas que se dirigen a un órgano o unidad jerárquicamente inferior para un supuesto determinado.
+5. Las circulares, instrucciones y órdenes de servicio serán publicadas en el "Boletín Oficial del Principado de Asturias" cuando una norma legal o reglamentaria así lo establezca o se estime conveniente por razón de los destinatarios o de los efectos que puedan producirse, sin perjuicio de su difusión de acuerdo con lo previsto en la normativa sobre transparencia y acceso a la información pública.
+6. El incumplimiento de las circulares, instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad administrativa en que se pueda incurrir.
+Se añade por el art. 1.27 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708

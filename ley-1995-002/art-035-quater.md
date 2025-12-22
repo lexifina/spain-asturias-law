@@ -1,0 +1,4 @@
+Artículo 35 quater. Responsabilidad patrimonial.
+1. Corresponde a los titulares de las consejerías, en el ámbito de sus competencias, la resolución de los procedimientos de responsabilidad patrimonial. No obstante, será precisa autorización del gasto por el Consejo de Gobierno cuando este sea competente por razón de su cuantía.
+2. En el caso de los organismos públicos o entidades de derecho público vinculados o dependientes de la Administración del Principado de Asturias, el órgano competente para la resolución de dichos procedimientos vendrá determinado por su normativa específica, y, en su defecto, corresponderá a quien sea titular de la consejería a la que estuviera vinculado o dependiese el organismo público o entidad de derecho público.
+Se añade por el art. 1.39 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708

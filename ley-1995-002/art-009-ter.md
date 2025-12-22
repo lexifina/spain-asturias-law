@@ -1,0 +1,4 @@
+Artículo 9 ter. Plazos para la emisión de informes en procedimientos administrativos.
+1. De conformidad con el artículo 80.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para la emisión de informes será de diez días salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor.
+2. Cuando en un procedimiento deban emitirse diversos informes, estos se solicitarán por sus responsables de manera simultánea y no sucesiva, en los términos del artículo 80 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y siempre que dichos trámites permitan el impulso simultáneo.
+Se añade por el art. 1.12 de la Ley 4/2025, de 19 de noviembre. Ref. BOE-A-2025-25708
