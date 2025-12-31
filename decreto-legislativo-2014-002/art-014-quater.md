@@ -1,7 +1,8 @@
-Artículo 14 quáter. Deducción por nacimiento o adopción de segundo y sucesivos hijos en concejos en riesgo de despoblación.
-1. El contribuyente podrá practicar una deducción de 300 euros por cada segundo hijo y sucesivos, nacido o adoptado en el período impositivo, siempre que el menor conviva con el declarante y que el mismo tenga su residencia habitual en concejos en riesgo de despoblación.
+Artículo 14 quáter. Deducción por nacimiento o adopción de segundo y sucesivos hijos en concejos en riesgo de despoblamiento o en crisis demográfica.
+1. El contribuyente podrá practicar una deducción de 300 euros por cada segundo hijo y sucesivos, nacido o adoptado en el período impositivo, siempre que el menor conviva con el declarante y que el mismo tenga su residencia habitual en concejos en riesgo de despoblamiento o en crisis demográfica, así clasificados según lo dispuesto en el Decreto 83/2025, de 23 de junio, por el que establece la zonificación demográfica y se regula el Indicador Sintético de Estado Demográfico del Principado de Asturias.
 2. La deducción únicamente resultará aplicable en los supuestos de convivencia del contribuyente con el resto de la unidad familiar. Cuando exista más de un contribuyente con derecho a la aplicación de la deducción y estos realicen declaración individual del impuesto, la deducción se prorrateará por partes iguales en la declaración de cada uno de ellos aplicándose a aquellos que cumplan los requisitos para aplicarse el beneficio fiscal. Las anteriores circunstancias se entenderán referidas a la fecha de devengo del impuesto.
 3. Solo tendrá derecho a esta deducción el contribuyente cuya base imponible no resulte superior a 35.000 euros en tributación individual ni a 45.000 euros en tributación conjunta.
-4. A los efectos de la presente deducción, tendrán la consideración de concejos en riesgo de despoblación aquellos con una población de hasta 20.000 habitantes, siempre que la población se haya reducido al menos un 10 por ciento desde el año 2000.
+4. (Suprimido)
+Se modifican la rúbrica y el apartado 1 y se suprime el 4 por el art. 39.5 a 7 de la Ley 5/2025, de 31 de diciembre. Ref. BOE-A-2026-2888
 Se modifica por el art. 38.11 de la Ley 10/2022, de 30 de diciembre. Ref. BOE-A-2023-3293
 Se añade por el art. 37.1 de la Ley 8/2019, de 30 de diciembre. Ref. BOE-A-2020-1203

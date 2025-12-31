@@ -1,0 +1,9 @@
+Artículo 14 novodecies. Deducción por gastos derivados de la enfermedad celíaca diagnosticada.
+1. Los contribuyentes podrán aplicar una deducción de 100 euros por los gastos en que incurran asociados a la enfermedad celíaca por cada miembro de la unidad familiar diagnosticado con la citada enfermedad.
+2. A los exclusivos efectos de esta deducción, se considerarán personas integrantes de la unidad familiar del contribuyente al propio contribuyente, su cónyuge en los casos de declaración conjunta y aquellas personas que generen el derecho a la aplicación del mínimo por ascendientes o descendientes regulado en la normativa estatal del impuesto sobre la renta de las personas físicas.
+3. Cuando dos o más contribuyentes tengan derecho a la aplicación de esta deducción respecto de los mismos ascendientes o descendientes para un mismo período impositivo, el importe máximo de la deducción se prorrateará entre ellos por partes iguales.
+4. La condición de enfermedad celíaca deberá acreditarse mediante informe médico oficial que recoja el diagnóstico definitivo conforme a los criterios reconocidos por la comunidad científica. Dicho informe deberá ser emitido:
+a) Por profesionales en ejercicio en el Servicio de Salud del Principado de Asturias o en otros servicios de salud públicos integrados en el Sistema Nacional de Salud (SNS), debidamente identificados mediante su Código Numérico Personal (CNP) o el homólogo que corresponda en cada Comunidad Autónoma.
+b) En el caso de pacientes con aseguramiento sanitario privado, por profesionales adscritos a la entidad aseguradora correspondiente, debidamente identificados mediante su número de colegiado.
+5. Sólo tendrán derecho a esta deducción los contribuyentes cuya base imponible no resulte superior a 35.000 en tributación individual y 45.000 euros en tributación conjunta.
+Se añade por el art. 39.17 de la Ley 5/2025, de 31 de diciembre. Ref. BOE-A-2026-2888

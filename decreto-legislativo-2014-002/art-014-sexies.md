@@ -1,5 +1,5 @@
-Artículo 14 sexies. Deducción por gastos de transporte público para residentes en concejos en riesgo de despoblación.
-1. El contribuyente con residencia habitual en concejos en riesgo de despoblación podrá practicar una deducción por el importe de los gastos en que incurra para adquirir abonos de transporte público de carácter unipersonal y nominal, con el límite de 100 euros.
+Artículo 14 sexies. Deducción por gastos de transporte público para residentes en concejos en riesgo de despoblamiento o en crisis demográfica.
+1. Los contribuyentes que tengan su residencia habitual en concejos en riesgo de despoblamiento o en crisis demográfica, así clasificados según lo dispuesto en el Decreto 83/2025, de 23 de junio, por el que establece la zonificación demográfica y se regula el Indicador Sintético de Estado Demográfico del Principado de Asturias, podrán practicar una deducción por el importe de los gastos en que incurran para adquirir abonos de transporte público de carácter unipersonal y nominal, con el límite de 100 euros.
 2. Adicionalmente, los contribuyentes podrán deducirse por cada descendiente que genere derecho a la aplicación del mínimo por descendientes regulado en el artículo 58 de la Ley del Impuesto y que curse estudios de bachillerato, de formación profesional o enseñanzas universitarias fuera del concejo en riesgo de despoblación, el 10 por ciento de los gastos de transporte originados con el límite de 300 euros, siempre y cuando los citados gastos se deban a la adquisición de abonos de transporte público de carácter unipersonal y nominal.
 Cuando varios contribuyentes tengan distinto grado de parentesco con quien curse los estudios que originan el derecho a la deducción, solamente podrán practicar la deducción los de grado más cercano.
 Cuando el descendiente conviva con más de un contribuyente con los que tenga idéntico grado de parentesco, el importe de la deducción se prorrateará entre ellos por partes iguales aplicándose la deducción en la declaración de aquellos que cumplan los requisitos establecidos.
@@ -7,7 +7,8 @@ En el supuesto de tributación conjunta, si más de un contribuyente de la unida
 3. En su caso, la acreditación documental de los gastos que generen derecho a deducción deberá realizarse mediante factura o cualquier otro medio del tráfico jurídico o económico admitido en Derecho.
 4. Esta deducción se aplicará en el período impositivo en el que se efectúe el gasto con independencia del período de vigencia del abono adquirido.
 5. Solo tendrá derecho a esta deducción el contribuyente cuya base imponible no resulte superior a 35.000 euros en tributación individual ni a 45.000 euros en tributación conjunta.
-6. A los efectos de la presente deducción, tendrán la consideración de concejos en riesgo de despoblación aquellos con una población de hasta 20.000 habitantes, siempre que la población se haya reducido al menos un 10 por ciento desde el año 2000.
+6. (Suprimido)
+Se modifican la rúbrica y el apartado 1 y se suprime el 6 por el art. 39.11 a 13 de la Ley 5/2025, de 31 de diciembre. Ref. BOE-A-2026-2888
 Se modifica por el art. 38.13 de la Ley 10/2022, de 30 de diciembre. Ref. BOE-A-2023-3293
 Se modifica por el art. 39.1 de la Ley 6/2021, de 30 de diciembre. Ref. BOE-A-2022-863
 Se modifica por el art. 39.5 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-905
