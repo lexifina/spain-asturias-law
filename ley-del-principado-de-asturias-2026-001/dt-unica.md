@@ -1,0 +1,3 @@
+Disposición transitoria única. Representación de las mujeres en el ámbito agrario.
+1. La representación de las mujeres establecida en el artículo 8.2 se deberá alcanzar en el plazo de tres años desde la entrada en vigor de esta ley.
+2. La participación mínima del 40 % de mujeres en los órganos de dirección de las asociaciones u organizaciones representativas de intereses económicos y sociales se valorará, en las convocatorias de ayudas o subvenciones que se dirijan a estas entidades y que se realicen a partir del tercer año desde la entrada en vigor de esta ley, al menos, con un 15 % del total de la puntuación alcanzable en los criterios de cuantificación de las ayudas.
