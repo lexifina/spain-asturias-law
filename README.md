@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-140 norms with 463 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 17 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+141 norms with 466 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 18 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -154,6 +154,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2010-004/` | Ley 4/2010, de 29 de junio, de Cooperativas. | 3 | as first published, then each change: 1 August 2010 to 10 August 2026; **repealed** 10 August 2026 by Ley del Principado de Asturias 4/2026, de 28 de mayo (BOE-A-2026-13298) | 2026-08-09 |
 | `ley-2014-001/` | Ley 1/2014, de 14 de abril, del Impuesto sobre las Afecciones Ambientales del Uso del Agua. | 2 | as first published, then each change: 1 May 2014 to 1 January 2015; **repealed** 1 January 2015 by Decreto Legislativo 1/2014, de 23 de julio (BOE-A-2015-944) | 2025-12-19 |
 | `ley-2018-010/` | Ley 10/2018, de 2 de noviembre, de categorías profesionales del personal estatutario del Servicio de Salud del Principado de Asturias. | 2 | as first published, then each change: 10 November 2018 to 1 May 2019; **repealed** 1 May 2019 by Ley 7/2019, de 29 de marzo (BOE-A-2019-7841) | 2025-12-20 |
+| `ley-2005-005/` | Ley 5/2005, de 16 de diciembre, del Procurador General. | 3 | as first published, then each change: 19 January 2006 to 31 December 2013; **repealed** 31 December 2013 by Ley 2/2013, de 21 de junio (BOE-A-2013-10411) | 2025-12-18 |
 
 ## Source
 

@@ -3898,6 +3898,32 @@
      "sha256": "d2dfea341293aad0947f6ce45018ecc7e915a2b38e78a4625e901dc9cd07196f"
     }
    ]
+  },
+  {
+   "slug": "ley-2005-005",
+   "short": "Ley 5/2005, de 16 de diciembre",
+   "title": "Ley 5/2005, de 16 de diciembre, del Procurador General.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-1774",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 56,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-1774",
+     "sha256": "bc263a66bb71707d884b422c35acfce9c9d89d10321e6f01541260e9f8a27e62"
+    },
+    {
+     "from": "2013-07-02",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-1774",
+     "sha256": "bc263a66bb71707d884b422c35acfce9c9d89d10321e6f01541260e9f8a27e62"
+    },
+    {
+     "from": "2013-12-31",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-1774",
+     "sha256": "bc263a66bb71707d884b422c35acfce9c9d89d10321e6f01541260e9f8a27e62"
+    }
+   ]
   }
  ]
 }
