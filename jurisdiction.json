@@ -1,0 +1,11 @@
+{
+  "path": "es-as",
+  "code": "ES-AS",
+  "name": "Asturias",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-asturias-law",
+  "build": "built: statute of autonomy and laws (140 norms, 463 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
