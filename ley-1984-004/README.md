@@ -1,16 +1,16 @@
 # Ley 4/1984, de 5 de junio, reguladora de la iniciativa legislativa de los Ayuntamientos y de la iniciativa popular.
 
-Ley 4/1984, de 5 de junio · 1 versions, from 1984-06-28 (latest in force: 1984-06-28) · <https://www.boe.es/buscar/act.php?id=BOE-A-1984-15211>
+Ley 4/1984, de 5 de junio · 2 versions, from 1984-06-28 (latest in force: 1984-06-28) · <https://www.boe.es/buscar/act.php?id=BOE-A-1984-15211>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 1 | [art-001.md](art-001.md) | 1 | 2026-11-23 |
 | Artículo 2 | [art-002.md](art-002.md) | 0 |  |
 | Artículo 3 | [art-003.md](art-003.md) | 0 |  |
 | Artículo 4 | [art-004.md](art-004.md) | 0 |  |
 | Artículo 5 | [art-005.md](art-005.md) | 0 |  |
 | Artículo 6 | [art-006.md](art-006.md) | 0 |  |
-| Artículo 7 | [art-007.md](art-007.md) | 0 |  |
+| Artículo 7 | [art-007.md](art-007.md) | 1 | 2026-11-23 |
 | Artículo 8 | [art-008.md](art-008.md) | 0 |  |
 | Artículo 9 | [art-009.md](art-009.md) | 0 |  |
 | Artículo 10 | [art-010.md](art-010.md) | 0 |  |

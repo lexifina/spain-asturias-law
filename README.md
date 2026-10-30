@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-141 norms with 466 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 18 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+143 norms with 470 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 18 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -18,7 +18,6 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-1983-004/` | Ley 4/1983, de 4 de agosto, reguladora del procedimiento de designación de Senadores por el Principado de Asturias. | 2 | as first published, then each change: 10 August 1983 to 29 January 1991 | 2025-12-16 |
 | `ley-1984-001/` | Ley 1/1984, de 27 de abril, por la que se establece el Himno del Principado y se regula su uso. | 1 | as first published: 24 May 1984 | 2025-12-16 |
 | `ley-1984-002/` | Ley 2/1984, de 27 de abril, por la que se establece el Escudo del Principado y se regula su uso. | 1 | as first published: 24 May 1984 | 2025-12-16 |
-| `ley-1984-004/` | Ley 4/1984, de 5 de junio, reguladora de la iniciativa legislativa de los Ayuntamientos y de la iniciativa popular. | 1 | as first published: 28 June 1984 | 2026-10-23 |
 | `ley-1984-005/` | Ley 5/1984, de 28 de junio, por la que se instituye el Día de Asturias. | 1 | as first published: 7 July 1984 | 2025-12-16 |
 | `ley-1984-006/` | Ley 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno del Principado de Asturias. | 8 | as first published, then each change: 12 July 1984 to 24 December 2018 | 2025-12-16 |
 | `ley-1984-007/` | Ley 7/1984, de 13 de julio, de Relaciones entre el Consejo de Gobierno y la Junta General del Principado de Asturias. | 1 | as first published: 12 August 1984 | 2025-12-16 |
@@ -43,7 +42,6 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-1991-009/` | Ley 9/1991, de 30 de diciembre, por la que se establece un recargo sobre las cuotas mínimas del Impuesto sobre Actividades Económicas. | 1 | as first published: 1 January 1992 | 2025-12-17 |
 | `ley-1993-002/` | Ley 2/1993, de 29 de octubre, de pesca marítima en aguas interiores y aprovechamiento de recursos marinos. | 2 | as first published, then each change: 5 December 1993 to 1 January 2003 | 2025-12-17 |
 | `ley-1994-001/` | Ley 1/1994, de 21 de febrero, sobre Abastecimiento y Saneamiento de Aguas en el Principado de Asturias. | 17 | as first published, then each change: 17 March 1994 to 13 April 2023 | 2025-12-17 |
-| `ley-1995-001/` | Ley 1/1995, de 27 de enero, de protección del menor. | 2 | as first published, then each change: 1 March 1995 to 1 January 2020 | 2026-10-23 |
 | `ley-1995-002/` | Ley 2/1995, de 13 de marzo, sobre régimen jurídico de la Administración del Principado de Asturias. | 10 | as first published, then each change: 4 April 1995 to 22 December 2025 | 2025-12-18 |
 | `ley-1995-003/` | Ley 3/1995, de 15 de marzo, de Sanciones en Materia de Vivienda. | 3 | as first published, then each change: 18 April 1995 to 1 January 2003 | 2025-12-18 |
 | `ley-1995-005/` | Ley 5/1995, de 6 de abril, de promoción de la accesibilidad y supresión de barreras. | 2 | as first published, then each change: 9 May 1995 to 30 June 2021 | 2025-12-18 |
@@ -154,7 +152,11 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2010-004/` | Ley 4/2010, de 29 de junio, de Cooperativas. | 3 | as first published, then each change: 1 August 2010 to 10 August 2026; **repealed** 10 August 2026 by Ley del Principado de Asturias 4/2026, de 28 de mayo (BOE-A-2026-13298) | 2026-08-09 |
 | `ley-2014-001/` | Ley 1/2014, de 14 de abril, del Impuesto sobre las Afecciones Ambientales del Uso del Agua. | 2 | as first published, then each change: 1 May 2014 to 1 January 2015; **repealed** 1 January 2015 by Decreto Legislativo 1/2014, de 23 de julio (BOE-A-2015-944) | 2025-12-19 |
 | `ley-2018-010/` | Ley 10/2018, de 2 de noviembre, de categorías profesionales del personal estatutario del Servicio de Salud del Principado de Asturias. | 2 | as first published, then each change: 10 November 2018 to 1 May 2019; **repealed** 1 May 2019 by Ley 7/2019, de 29 de marzo (BOE-A-2019-7841) | 2025-12-20 |
+| `ley-del-principado-de-asturias-2026-007/` | Ley del Principado de Asturias 7/2026, de 15 de octubre, para la erradicación de la discriminación y para la igualdad real y efectiva de derechos de las personas lesbianas, gais, trans, bisexuales e intersexuales y de sus familias. | 1 | as first published: 23 December 2026 | 2026-11-06 |
+| `ley-del-principado-de-asturias-2026-008/` | Ley del Principado de Asturias 8/2026, de 15 de octubre, de Infancia y Adolescencia. | 1 | as first published: 23 November 2026 | 2026-11-06 |
 | `ley-2005-005/` | Ley 5/2005, de 16 de diciembre, del Procurador General. | 3 | as first published, then each change: 19 January 2006 to 31 December 2013; **repealed** 31 December 2013 by Ley 2/2013, de 21 de junio (BOE-A-2013-10411) | 2025-12-18 |
+| `ley-1984-004/` | Ley 4/1984, de 5 de junio, reguladora de la iniciativa legislativa de los Ayuntamientos y de la iniciativa popular. | 2 | as first published, then each change: 28 June 1984 to 23 November 2026 | 2026-11-06 |
+| `ley-1995-001/` | Ley 1/1995, de 27 de enero, de protección del menor. | 3 | as first published, then each change: 1 March 1995 to 23 November 2026 | 2026-11-06 |
 
 ## Source
 

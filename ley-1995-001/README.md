@@ -1,6 +1,6 @@
 # Ley 1/1995, de 27 de enero, de protección del menor.
 
-Ley 1/1995, de 27 de enero · 2 versions, from 1995-03-01 (latest in force: 2020-01-01) · <https://www.boe.es/buscar/act.php?id=BOE-A-1995-9683>
+Ley 1/1995, de 27 de enero · 3 versions, from 1995-03-01 (latest in force: 2020-01-01) · <https://www.boe.es/buscar/act.php?id=BOE-A-1995-9683>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

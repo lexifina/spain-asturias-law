@@ -165,11 +165,25 @@
    ],
    "sha256": "6c1f1f99be59b95da1b2793c31b53cc5cfabd28f8f9647666db6066518d62fed"
   },
+  "96-nuevas-20261106-01.json": {
+   "acts": [
+    "ley-del-principado-de-asturias-2026-007",
+    "ley-del-principado-de-asturias-2026-008"
+   ],
+   "sha256": "45881abafb7c0c8a8416c18f7b860714a90f14ab9fc128c9aa2c932e618ef936"
+  },
   "97-derogadas-20261105-01.json": {
    "acts": [
     "ley-2005-005"
    ],
    "sha256": "f0bc879a0385111f65309ee572bdfa05f34c2cce14bfe266bd9e563eb45f128e"
+  },
+  "98-update-20261106-30normas01.json": {
+   "acts": [
+    "ley-1984-004",
+    "ley-1995-001"
+   ],
+   "sha256": "7f17dcc3b5474865d7168e31542bde28560086a221d282124fd1032ae7e3f681"
   }
  },
  "schema": 1

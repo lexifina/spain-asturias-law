@@ -110,6 +110,12 @@
      "units": 17,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-15211",
      "sha256": "b926cfc16e803f6376e1c4649d6af7b0f0fbb9c9623d9db6e06aaa4b8e99d878"
+    },
+    {
+     "from": "2026-11-23",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-15211",
+     "sha256": "9219ef4341a66e698b9463022debe9b404e350476b54cadf96ffc017732d98ac"
     }
    ]
   },
@@ -826,6 +832,12 @@
      "units": 91,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-9683",
      "sha256": "9075c61c1b277fab0190dae397eaba801d9b788d2d30ac594129469c2523e07d"
+    },
+    {
+     "from": "2026-11-23",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-9683",
+     "sha256": "9e80f0682fa52f33455a9c19f9e56f55043925a53fa5083a2c8b741dd16441a9"
     }
    ]
   },
@@ -3896,6 +3908,34 @@
      "units": 0,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17063",
      "sha256": "d2dfea341293aad0947f6ce45018ecc7e915a2b38e78a4625e901dc9cd07196f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-del-principado-de-asturias-2026-007",
+   "short": "Ley del Principado de Asturias 7/2026, de 15 de octubre",
+   "title": "Ley del Principado de Asturias 7/2026, de 15 de octubre, para la erradicación de la discriminación y para la igualdad real y efectiva de derechos de las personas lesbianas, gais, trans, bisexuales e intersexuales y de sus familias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-23271",
+   "versions": [
+    {
+     "from": "2026-12-23",
+     "units": 128,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-23271",
+     "sha256": "1e8e418de3b9804049dae3fc48f793a50d8dd8664946702703924b85a7d3d759"
+    }
+   ]
+  },
+  {
+   "slug": "ley-del-principado-de-asturias-2026-008",
+   "short": "Ley del Principado de Asturias 8/2026, de 15 de octubre",
+   "title": "Ley del Principado de Asturias 8/2026, de 15 de octubre, de Infancia y Adolescencia.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-23272",
+   "versions": [
+    {
+     "from": "2026-11-23",
+     "units": 150,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-23272",
+     "sha256": "42458276516cfaf74aa6d527e56e9f52d77ef9b1879e15c5120e870a1f3cac6b"
     }
    ]
   },
