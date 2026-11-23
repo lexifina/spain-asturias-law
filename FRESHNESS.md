@@ -4,12 +4,13 @@
 
 [English](FRESHNESS.en.md)
 
-Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). Para España:
+Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). Para Principado de Asturias:
 
 ### Legislación consolidada del BOE, comunidades autónomas (datos abiertos) · `spain/asturias/acts`
 
-- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-23 01:08 UTC**.
+- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-23 13:49 UTC**.
 - Normas en este repositorio: 143; al día con la fuente: 142; modificadas en la fuente después de la versión de aquí: 1; ya no están en la fuente: 0.
-- Sin publicar: 1 (modificada en la fuente después de la versión de aquí: 1); sin motivo: 0.
+- Compared with the source in this read: 6 of the 143 acts held here; the others were not compared in this read (see the check's note).
+- Sin publicar: 0 (—); sin motivo: 0.
 
 En detalle: [monitoring/](monitoring/README.md). Para programas: [data/checks/latest.json](data/checks/latest.json).
