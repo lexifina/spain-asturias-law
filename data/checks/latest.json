@@ -1,12 +1,14 @@
 {
- "generated": "2026-11-27T06:33:38Z",
+ "generated": "2026-11-28T08:11:15Z",
  "latest": {
   "boe-autonomico|spain/asturias/acts": {
    "attempt": 1,
    "audit": {
-    "examples": [],
-    "match_neither": 0,
-    "match_new": 5,
+    "examples": [
+     "BOE-A-1994-10719: 0 of 47 blocks of the page not found here; 24151 of 61322 letters here not on the page as such"
+    ],
+    "match_neither": 1,
+    "match_new": 4,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
     "sampled": 5,
@@ -26,14 +28,19 @@
     "repo": 143,
     "source_in_scope": 143
    },
-   "check_id": "es-boe-autonomico-20261127T061840Z",
+   "check_id": "es-boe-autonomico-20261128T062102Z",
    "commits": null,
    "corpus": "spain/asturias/acts",
    "error": null,
-   "finished": "2026-11-27T06:19:07Z",
-   "flags": [],
+   "finished": "2026-11-28T06:21:28Z",
+   "flags": [
+    {
+     "detail": "1 of 5 read again by a second route disagree",
+     "flag": "audit-disagrees"
+    }
+   ],
    "gap": 0,
-   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261127T052756Z); this repository's data run to 2026-11-06",
+   "note": "the BOE's list of 12498 consolidated norms (8873 Estatal, 3625 Autonómico) was read once at 05:28 UTC for the 20 Spanish corpora (check es-boe-estatal-20261128T052859Z); this repository's data run to 2026-11-06",
    "outcome": "no-change",
    "published": {
     "added": [],
@@ -48,9 +55,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-26T13:04:42Z",
+   "snapshot": "2026-11-27T23:10:03Z",
    "source": "boe-autonomico",
-   "started": "2026-11-27T06:18:40Z",
+   "started": "2026-11-28T06:21:02Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,
